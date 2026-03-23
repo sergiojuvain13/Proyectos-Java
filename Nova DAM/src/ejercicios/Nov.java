@@ -6,7 +6,7 @@ public class Nov extends JFrame implements ActionListener{
 	private JTextField textfield1;
 	private JComboBox<String> combo1;
 	private JButton boton1;
-	
+//Añadimos un constructor
 	public Nov() {
 		setLayout(null);
 		label1=new JLabel("Nombre:");
