@@ -2,4 +2,8 @@
 bin/
 .classpath
 .project
+<<<<<<< HEAD
 *.class
+=======
+*.class
+>>>>>>> branch 'main' of https://github.com/sergiojuvain13/Proyectos-Java.git
