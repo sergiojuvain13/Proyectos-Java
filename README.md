@@ -11,10 +11,10 @@ Repositorio dedicado a registrar mi progreso diario en el aprendizaje de Java, e
 * [x] Componentes básicos de entrada (`JLabel`, `JButton`, `JTextField`)
 * [x] **Selección y Opciones:**
     * [x] Casillas de verificación (`JCheckBox`) 
-    * [ ] Botones de opción (`JRadioButton`)
-    * [ ] Listas desplegables (`JComboBox`)
-* [ ] **Gestión de Eventos:**
-    * [ ] Listeners para clics y cambios de estado.
+    * [x] Botones de opción (`JRadioButton`)
+    * [x] Listas desplegables (`JComboBox`)
+* [x] **Gestión de Eventos:**
+    * [x] Listeners para clics y cambios de estado.
 * [ ] **Diseño Avanzado:**
     * [ ] Manejo de Layouts (`BorderLayout`, `GridLayout`, `FlowLayout`).
 
