@@ -50,7 +50,7 @@ public class Visualizacion1 extends JFrame {
 		JMenu mnNewMenu = new JMenu("Cambiar color");
 		menuBar.add(mnNewMenu);
 
-		JMenuItem mntmNewMenuItem = new JMenuItem("rojo");
+		JMenuItem mntmNewMenuItem = new JMenuItem("Rojo");
 		mntmNewMenuItem.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent arg0) {
 				contentPane.setBackground(Color.red);
@@ -58,7 +58,7 @@ public class Visualizacion1 extends JFrame {
 		});
 		mnNewMenu.add(mntmNewMenuItem);
 
-		JMenuItem mntmNewMenuItem_1 = new JMenuItem("verde");
+		JMenuItem mntmNewMenuItem_1 = new JMenuItem("Verde");
 		mntmNewMenuItem_1.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent arg0) {
 				contentPane.setBackground(Color.GREEN);
@@ -66,7 +66,7 @@ public class Visualizacion1 extends JFrame {
 		});
 		mnNewMenu.add(mntmNewMenuItem_1);
 
-		JMenuItem mntmNewMenuItem_2 = new JMenuItem("azul");
+		JMenuItem mntmNewMenuItem_2 = new JMenuItem("Azul");
 		mntmNewMenuItem_2.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				contentPane.setBackground(Color.BLUE);
